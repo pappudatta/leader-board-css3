@@ -61,7 +61,7 @@ header .top-section{
 .avatar{
     display:flex;
     align-items: center;
-    margin-left: 10px;
+    margin-left: 11px;
 }
 main{
     display: flex;
